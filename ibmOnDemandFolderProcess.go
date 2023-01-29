@@ -10,7 +10,7 @@ import (
 	"strings"
 )
 
-/*
+/* Notes
 ### Given a folder
 	## Stage 1
     Find all *.ind files
